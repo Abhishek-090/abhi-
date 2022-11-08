@@ -1,0 +1,14 @@
+#navbar ul{
+    list-style: none;
+}
+#navbar ul li a{
+    text-decoration:none;
+    display:block;
+}
+#navbar ul li{
+    height:60px;
+    border:1px solid #ccc;
+    text-align:center;
+    line-height:60px;
+    
+}

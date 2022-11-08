@@ -1,0 +1,12 @@
+.successinfo
+{
+    color:green;
+    font-size: 45px;
+}
+
+.error
+{
+    color:red;
+    font-weight: 400;
+    font-style: italic;
+}
